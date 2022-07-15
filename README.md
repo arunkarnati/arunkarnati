@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arunkarnati
-- 👀 I’m interested in writing code to make life a bit easier
-- 🌱 I’m currently working on native apps using React
+- 👋 Hi, I’m Arun.
+- 👀 I write code to make life a bit better and easier.
+- 🌱 I’m currently working with TypeScript, React, Redux, PHP, Drupal, MySQL.
 
 <!---
 arunkarnati/arunkarnati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
