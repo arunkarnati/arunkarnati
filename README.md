@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Arun.
-- 👀 I write code to make life a bit better and easier.
-- 🌱 I’m currently working with TypeScript, React, Redux, PHP, Drupal, MySQL.
+- :wave: Hi, I’m Arun.
+- :metal: I write code to make life a bit better and easier.
+- :computer: I work with Docker, Nginx, TypeScript, ES6, React, Redux, PHP, Drupal, MySQL.
 
 <!---
 arunkarnati/arunkarnati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
